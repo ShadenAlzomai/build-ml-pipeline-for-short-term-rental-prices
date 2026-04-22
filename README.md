@@ -3,6 +3,8 @@ This project implements an end-to-end Machine Learning pipeline to predict short
 
 Project Overview
 The goal is to build a reproducible, traceable pipeline that can handle new data updates weekly. The pipeline includes data cleaning, automated testing, hyperparameter optimization, and model deployment (aliasing).
+<img width="1446" height="415" alt="image" src="https://github.com/user-attachments/assets/1bcc8cda-a509-45b1-9370-2246bd057a70" />
+<img width="1446" height="415" alt="image" src="https://github.com/user-attachments/assets/14ebf47d-e39d-4b84-a287-ea3dfd2dc5fd" />
 
 
 Pipeline Steps
