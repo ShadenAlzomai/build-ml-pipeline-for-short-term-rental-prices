@@ -1,10 +1,11 @@
 NYC Airbnb Price Prediction Pipeline 
+
 This project implements an end-to-end Machine Learning pipeline to predict short-term rental prices in NYC using MLflow, Hydra, and Weights & Biases. 
 
 Project Overview
 The goal is to build a reproducible, traceable pipeline that can handle new data updates weekly. The pipeline includes data cleaning, automated testing, hyperparameter optimization, and model deployment (aliasing).
 <img width="1446" height="415" alt="image" src="https://github.com/user-attachments/assets/1bcc8cda-a509-45b1-9370-2246bd057a70" />
-<img width="1446" height="415" alt="image" src="https://github.com/user-attachments/assets/14ebf47d-e39d-4b84-a287-ea3dfd2dc5fd" />
+<img width="1673" height="680" alt="image" src="https://github.com/user-attachments/assets/3f135661-5cc4-4bc8-af7d-1a920497349c" />
 
 
 Pipeline Steps
