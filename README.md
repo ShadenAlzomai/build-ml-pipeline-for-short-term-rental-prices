@@ -41,7 +41,7 @@ v1.0.0: Initial stable release (caught geographical outliers).
 v1.0.1: Added coordinate filtering to handle noisy data in sample2.csv.
 
 wandb project path:
-https://wandb.ai/shadenalzomai-general-organization-for-social-insurance/nyc_airbnb/workspace?nw=nwusershadenalzomai
+https://wandb.ai/shadenalzomai-general-organization-for-social-insurance/nyc_airbnb
 
 Github repositry for the project
 https://github.com/ShadenAlzomai/build-ml-pipeline-for-short-term-rental-prices
